@@ -1,0 +1,43 @@
+/*
+Click nbfs://nbhost/SystemFileSystem/Templates/Licenses/license-default.txt to change this license
+Click nbfs://nbhost/SystemFileSystem/Templates/Other/CascadeStyleSheet.css to edit this template
+*/
+/*
+    Created on : 22/09/2022, 12:58:49
+    Author     : Ederson
+*/
+
+.edit th, th[style*=NO-RAD] {
+  padding: 5px;
+  border-radius: 5px;
+  background: #142333;
+  height: 25px;
+}
+*:not(.fa) {
+  font-family: Roboto;
+}
+th {
+  border-radius: 10px;
+  padding: 5px;
+}
+th {
+  color: #c4a575;
+  height: 50px;
+  box-shadow: 0 -1px 5px 2px #00000075;
+}
+.geral tr, .geral a, .geral span {
+  color: #354251 !important;
+}
+th h3 {
+  margin: 0;
+  line-height: 42px;
+}
+th div {
+  border: 2px solid #1c1c1c;
+  border-radius: 10px;
+  float: left;
+}
+th img {
+  border-radius: 50%;
+  padding: 5px;
+}
